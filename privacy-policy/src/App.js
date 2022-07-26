@@ -1,5 +1,5 @@
 import './App.css';
-import ScreenAppBar from './headers/Appbar';
+import ScreenAppBar from './headers/Navbar';
 import HomePage from "./pages/HomePage.js";
 import PrivacyPolicyPage  from './pages/PrivacyPolicyPage';
 import { HashRouter as Router, Routes , Route } from 'react-router-dom';
@@ -11,15 +11,12 @@ const App = () => {
 
   return (
     <div className='App'>
-      <ScreenAppBar />
+      {/* <ScreenAppBar /> */}
       <Router>
+        <ScreenAppBar />
         <Routes>
-          <Route exact path="/">
-            <Route path= "/" element={<HomePage />}/>
-          </Route>
-          <Route exact path="/privacyPolicy">
-            <Route path="/privacyPolicy" element={<PrivacyPolicyPage />}/>
-          </Route>
+          <Route exact path= "/" element={<HomePage />}/>
+          <Route path="/info" element={<PrivacyPolicyPage />}/>
         </Routes>
       </Router>
     </div>
