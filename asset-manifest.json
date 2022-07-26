@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Slalom-Boston-AppDev/tparty2022-web.git/static/css/main.073c9b0a.css",
+    "main.js": "/Slalom-Boston-AppDev/tparty2022-web.git/static/js/main.c9397b80.js",
+    "static/js/787.b3ee4cc7.chunk.js": "/Slalom-Boston-AppDev/tparty2022-web.git/static/js/787.b3ee4cc7.chunk.js",
+    "index.html": "/Slalom-Boston-AppDev/tparty2022-web.git/index.html",
+    "main.073c9b0a.css.map": "/Slalom-Boston-AppDev/tparty2022-web.git/static/css/main.073c9b0a.css.map",
+    "main.c9397b80.js.map": "/Slalom-Boston-AppDev/tparty2022-web.git/static/js/main.c9397b80.js.map",
+    "787.b3ee4cc7.chunk.js.map": "/Slalom-Boston-AppDev/tparty2022-web.git/static/js/787.b3ee4cc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c9397b80.js"
+  ]
+}
