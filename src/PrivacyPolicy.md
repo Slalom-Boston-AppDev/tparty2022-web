@@ -2,7 +2,7 @@
 
 Last Updated: July 2022
 
-Slalom Consulting, LLC respects the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you utilize our mobile application "Slalom TParty". Please read this Privacy Policy carefully. If you do not agree with the terms of this privacy policy, please do not use this application. 
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you utilize our mobile application "Slalom TParty". Please read this Privacy Policy carefully. If you do not agree with the terms of this privacy policy, please do not use this application. 
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and well be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted. 
 
@@ -36,4 +36,4 @@ If you interact with other users of the Application, those users may see your na
 When you post comments to the Application, your posts may be viewed by all users.
 
 ## SECURITY OF YOUR INFORMATION
-We use administrative, technical, and physical security measures to help protect your personal information. Your information is stored in Amazon's DynamoDB which follows the shared responsibility model. Additionally, DynamoDB handles data with encryption at rest, and is stored in the US. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and miseuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+We use administrative, technical, and physical security measures to help protect your personal information. Your information is stored in AWS which follows the shared responsibility model. Additionally, AWS handles data with encryption at rest, and is stored in the US. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and miseuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
