@@ -1,3 +1,5 @@
+# Privacy Policy for Slalom Boston's TParty App for its annual retreat
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
