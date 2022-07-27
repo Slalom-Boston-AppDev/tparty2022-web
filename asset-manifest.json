@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.70893623.css",
-    "main.js": "/static/js/main.2cfe9cd6.js",
-    "static/js/787.b3ee4cc7.chunk.js": "/static/js/787.b3ee4cc7.chunk.js",
-    "static/media/PrivacyPolicy.md": "/static/media/PrivacyPolicy.cb6c088f6d28c16a76f9.md",
-    "index.html": "/index.html",
-    "main.70893623.css.map": "/static/css/main.70893623.css.map",
-    "main.2cfe9cd6.js.map": "/static/js/main.2cfe9cd6.js.map",
-    "787.b3ee4cc7.chunk.js.map": "/static/js/787.b3ee4cc7.chunk.js.map"
+    "main.css": "/tparty2022-web/static/css/main.70893623.css",
+    "main.js": "/tparty2022-web/static/js/main.485d99c4.js",
+    "static/js/787.b3ee4cc7.chunk.js": "/tparty2022-web/static/js/787.b3ee4cc7.chunk.js",
+    "static/media/PrivacyPolicy.md": "/tparty2022-web/static/media/PrivacyPolicy.cb6c088f6d28c16a76f9.md",
+    "index.html": "/tparty2022-web/index.html",
+    "main.70893623.css.map": "/tparty2022-web/static/css/main.70893623.css.map",
+    "main.485d99c4.js.map": "/tparty2022-web/static/js/main.485d99c4.js.map",
+    "787.b3ee4cc7.chunk.js.map": "/tparty2022-web/static/js/787.b3ee4cc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70893623.css",
-    "static/js/main.2cfe9cd6.js"
+    "static/js/main.485d99c4.js"
   ]
 }
