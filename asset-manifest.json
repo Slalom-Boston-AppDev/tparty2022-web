@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Slalom-Boston-AppDev/tparty2022-web.git/static/css/main.70893623.css",
-    "main.js": "/Slalom-Boston-AppDev/tparty2022-web.git/static/js/main.82359249.js",
-    "static/js/787.b3ee4cc7.chunk.js": "/Slalom-Boston-AppDev/tparty2022-web.git/static/js/787.b3ee4cc7.chunk.js",
-    "index.html": "/Slalom-Boston-AppDev/tparty2022-web.git/index.html",
-    "main.70893623.css.map": "/Slalom-Boston-AppDev/tparty2022-web.git/static/css/main.70893623.css.map",
-    "main.82359249.js.map": "/Slalom-Boston-AppDev/tparty2022-web.git/static/js/main.82359249.js.map",
-    "787.b3ee4cc7.chunk.js.map": "/Slalom-Boston-AppDev/tparty2022-web.git/static/js/787.b3ee4cc7.chunk.js.map"
+    "main.css": "/tparty2022-web/static/css/main.70893623.css",
+    "main.js": "/tparty2022-web/static/js/main.d0c0d26b.js",
+    "static/js/787.b3ee4cc7.chunk.js": "/tparty2022-web/static/js/787.b3ee4cc7.chunk.js",
+    "index.html": "/tparty2022-web/index.html",
+    "main.70893623.css.map": "/tparty2022-web/static/css/main.70893623.css.map",
+    "main.d0c0d26b.js.map": "/tparty2022-web/static/js/main.d0c0d26b.js.map",
+    "787.b3ee4cc7.chunk.js.map": "/tparty2022-web/static/js/787.b3ee4cc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70893623.css",
-    "static/js/main.82359249.js"
+    "static/js/main.d0c0d26b.js"
   ]
 }
