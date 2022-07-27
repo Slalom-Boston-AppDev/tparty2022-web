@@ -12,7 +12,7 @@ body {
 }
 
 .nav{
-    background-color: #333;
+    background-color: rgb(12, 98, 251);
     color: white;
     display: flex;
     justify-content: space-between;
@@ -36,11 +36,12 @@ body {
     display: flex;
     align-items: center;
     padding: .25rem;
+    font-size: 2rem;
 }
 
-.nav li.active{
+/* .nav li.active{
     background-color: #555;
-}
+} */
 
 .nav li:hover{
     background-color: #777;
