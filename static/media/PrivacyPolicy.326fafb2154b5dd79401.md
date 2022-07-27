@@ -2,7 +2,7 @@
 
 Last Updated: July 2022
 
-This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you utilize our mobile application "Slalom TParty". Please read this Privacy Policy carefully. If you do not agree with the terms of this privacy policy, please do not use this application. 
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you utilize our mobile applications, including "T Party 2022". Please read this Privacy Policy carefully. If you do not agree with the terms of this privacy policy, please do not use this application. 
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and well be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted. 
 
